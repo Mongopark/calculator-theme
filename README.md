@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 ## Hosting platforms
 
 This web application is hosted on Vercel and Netlify and you can find it on;
-https://calculator-theme.vercel.app
+https://calculator-theme.vercel.app and 
 https://calculator-theme.netlify.app
 
 ## What the code does
